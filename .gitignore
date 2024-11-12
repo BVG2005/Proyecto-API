@@ -1,0 +1,30 @@
+# Archivos de Python
+__pycache__/
+*.py[cod]
+
+# Entornos virtuales
+venv/
+env/
+ENV/
+.venv/
+
+# Archivos de configuración de IDE
+.idea/
+.vscode/
+
+# Archivos de datos
+*.csv
+*.xlsx
+
+# Archivos de logs
+*.log
+
+# Archivos de sistema
+.DS_Store
+Thumbs.db
+
+# Archivos de configuración de Streamlit
+*.streamlit/
+
+# Archivos de configuración de FastAPI
+*.sqlite3
